@@ -169,8 +169,6 @@ http://localhost:5173
 
 Create a .env file inside backend/
 
-DATABASE_URL="postgresql://neondb_owner:npg_DR5hKSqmnv4B@ep-spring-glade-ais6k3jy-pooler.c-4.us-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require"
-
 ---
 
 ## 🌐 Deployment
